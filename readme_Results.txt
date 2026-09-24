@@ -1,6 +1,6 @@
 ### Project: Results.py
 
-I completed this project during my postdoc at at Observatoire Midi-Pyrénées, Toulouse (2024 - 2026).
+I completed this project during my postdoc at Observatoire Midi-Pyrénées, Toulouse (2024 - 2026).
 
 
 ### Project overview

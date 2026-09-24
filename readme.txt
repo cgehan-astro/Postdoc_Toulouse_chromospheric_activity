@@ -5,7 +5,7 @@ There are 3 programs in this repository.
 
 ### 1. Activity_indices_measurements.py: description in readme_Activity_indices_measurements.txt
 
-This program takes as an input the file spec-*.txt and produces as outputs the file output_measurements.txt as well as the plots CaHK_spectrum_KIC_*.pdf and whole_spectrum_KIC_*.pdf.
+This program takes as an input the files spec-*.txt and table_identify_objects.txt, and produces as outputs the file output_measurements.txt as well as the plots CaHK_spectrum_KIC_*.pdf and whole_spectrum_KIC_*.pdf.
 
 
 ### 2. Results.py: description in readme_Results.txt

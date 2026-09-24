@@ -5,7 +5,7 @@ I completed this project during my postdoc at Observatoire Midi-Pyrénées, Toul
 
 ### Project overview
 
-This project aims at providing a physical interpretation of the measurements of some physical parameters that has been measured from spectroscopic data by the pipeline presented in Activity_indices_measurements.py, namely physical indicators of the level of magnetic activity of stars that is caused by internal magnetic fields.
+This project aims at providing a physical interpretation of the measurements of some physical parameters that have been measured from spectroscopic data by the pipeline presented in Activity_indices_measurements.py, namely physical indicators of the level of magnetic activity of stars that is caused by internal magnetic fields.
 
 
 ### Dataset
